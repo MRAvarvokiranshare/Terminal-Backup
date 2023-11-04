@@ -1,6 +1,7 @@
 # Terminal-Backup
 
-![Screenshot_۲۰۲۳۱۱۰۴_۱۵۴۵۵۰_Termux](https://github.com/MRAvarvokiranshare/Terminal-Backup/assets/146922434/6be8e22f-8880-4116-bd1b-3dc0ef8c2a52)
+![Screenshot_۲۰۲۳۱۱۰۴_۱۵۴۵۵۰_Termux](https://github.com/MRAvarvokiranshare/Terminal-Backup/assets/146922434/1eded5cb-3f16-4283-a966-a82d4111f0ad)
+
 
 
 
